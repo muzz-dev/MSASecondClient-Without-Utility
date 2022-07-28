@@ -1,0 +1,14 @@
+com\muzammilnagariya\msasecondapp\config\Producers.class
+Entity\Customer.class
+com\muzammilnagariya\msasecondapp\service\HealthCheckService.class
+Entity\Customer_.class
+com\muzammilnagariya\msasecondapp\config\CrossOriginResourceSharingFilter.class
+Entity\Address.class
+Entity\Address_.class
+Entity\Subscription_.class
+Entity\Users.class
+com\muzammilnagariya\msasecondapp\config\BootStrap.class
+Entity\Subscription.class
+com\muzammilnagariya\msasecondapp\service\ExampleService.class
+ejb\PublicationSessionBean.class
+Entity\Users_.class
